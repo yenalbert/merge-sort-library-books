@@ -9,6 +9,7 @@ ISBN;
 
 
 Library Class Instance Data: 
+
 Note: that the number of sorted books may be less than the number of unsorted books, so the sorted array will be only in the range from index 0 to the array's length - dups.
 
 int sortedsize: The number of books in the sorted array.
@@ -16,6 +17,7 @@ int sortedsize: The number of books in the sorted array.
 int dups: The number of duplicate books.
 
 Instance Methods:
+
 inputBook method: This will create an instance of a book class and add it to the array.
 
 getSortedSize method: This will return the number of books in the sorted array.
@@ -28,4 +30,5 @@ display method: This will display the data for each book in the sorted array for
 
 
 Test Class
+
 This class will hold the main method. Create an instance of the Library class and add several books using the inputBook method, including at least 2 duplicates.  Call the bookSort method, then call the display method to display the sorted Books. 
