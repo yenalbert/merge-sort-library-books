@@ -2,10 +2,10 @@
 
 Book class will hold data about an individual book:
 
- - Title;
- - Author;
- - Subject;
- - ISBN; 
+ - Title
+ - Author
+ - Subject
+ - ISBN
 
 
 Library Class Instance Data: 
@@ -29,4 +29,4 @@ Instance Methods:
 
 Test Class:
 
- * This class will hold the main method. An instance of the Library class will be used to add several books using the inputBook method, including at least 2 duplicates. The bookSort method will sort the duplicates, then the display method will display the sorted Books. 
+ - This class will hold the main method. An instance of the Library class will be used to add several books using the inputBook method, including at least 2 duplicates. The bookSort method will sort the duplicates, then the display method will display the sorted Books. 
