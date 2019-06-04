@@ -1,6 +1,5 @@
 /**
  * @author albertyen
- *
  */
 public class Library {
 	
