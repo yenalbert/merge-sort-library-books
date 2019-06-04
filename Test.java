@@ -1,9 +1,4 @@
 /**
- * 
- */
-
-/**
- * @author albertyen
  *This class will hold the main method. 
  *An instance of the Library class will created;
  *Several books will be added using the inputBook method to the Library instance, called 'newLibrary.'
