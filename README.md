@@ -29,6 +29,6 @@ When comparing two Books in the merge step, if the Book ISBNs are the same, poin
 display method: This will display the data for each book in the sorted array for testing purposes.
 
 
-Test Class
+Test Class:
 
-This class will hold the main method. Create an instance of the Library class and add several books using the inputBook method, including at least 2 duplicates.  Call the bookSort method, then call the display method to display the sorted Books. 
+This class will hold the main method. An instance of the Library class will be used to add several books using the inputBook method, including at least 2 duplicates. The bookSort method will sort the duplicates, then the display method will display the sorted Books. 
