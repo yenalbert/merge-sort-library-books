@@ -1,10 +1,11 @@
 /**
  * @author albertyen
- *This class will hold the main method. 
+ *This class will hold the main method;
  *An instance of the Library class will created;
- *Several books will be added using the inputBook method to the Library instance, called 'newLibrary.'
- *There will be 2 duplicates, which will be deleted.  
- *The bookSort method will sort the books by ISBN number; The display method will display the books' info.  
+ *Several books will be added using the inputBook method to the Library instance, called 'newLibrary.';
+ *There will be 2 duplicates, which will be deleted;
+ *The bookSort method will sort the books by ISBN number, which is a long type;
+ *The display method will display the books' info;
  */
 public class Test {
 	/**
